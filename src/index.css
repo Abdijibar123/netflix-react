@@ -77,7 +77,7 @@
 }
 
 .movie-card {
- margin: 0px 10px;
+ margin: 12px 10px;
 }
 
 .movie-image {
@@ -100,11 +100,12 @@ ul {
  list-style: none;
 }
 .website-button {
-    padding:4px 10px;
+    padding:4px 20px;
     font-size:13px;
     color:white;
     background-color:red;
     border: none;
     margin: 10px 0px;
     text-decoration: none;
+    
 }
